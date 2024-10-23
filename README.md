@@ -1,5 +1,3 @@
-To effectively document deployment workflows in Jenkins using pipelines, consider the following questionnaire. This will help gather comprehensive information about the deployment processes and configurations.
- 
 ## General Information
 1. **Project Name**: What is the name of the project or application being deployed?
 2. **Deployment Environments**: What environments are involved (e.g., development, staging, production)?
