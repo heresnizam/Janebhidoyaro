@@ -120,3 +120,17 @@ How is the infrastructure scaled to meet demand?
 What techniques are used to optimize Jenkins performance?
 How are bottlenecks identified and addressed?
 By addressing these questions, you can create a comprehensive documentation of your deployment workflows in Jenkins, ensuring consistency, efficiency, and compliance.
+
+<img width="874" alt="reliable engineering" src="https://github.com/user-attachments/assets/d964c243-1e36-4ef4-b938-ee7c83cb8880">
+<img width="731" alt="pipeline scenario" src="https://github.com/user-attachments/assets/711e146c-34ae-47c4-8a9d-bd9f66ea02ee">
+<img width="641" alt="DevOps in practicality" src="https://github.com/user-attachments/assets/c25eebb8-7ff7-4c46-836e-f32ea4c761ef">
+<img width="717" alt="CI" src="https://github.com/user-attachments/assets/4797dfbd-420b-43ae-950a-ab7066b45acd">
+<img width="878" alt="Bug idenfied during testing" src="https://github.com/user-attachments/assets/cc04c75e-8916-4d85-976b-4f020f49b1fd">
+<img width="888" alt="Bug found before actual work begins" src="https://github.com/user-attachments/assets/3bd58b19-632f-4c88-8f32-69cec2c18add">
+<img width="875" alt="Bug found after code is pushed to production" src="https://github.com/user-attachments/assets/83d7800b-732e-473e-b3dc-02f9df74d612">
+<img width="625" alt="5 levels of DevOps" src="https://github.com/user-attachments/assets/326e9c7d-8f13-4672-983e-1ae7dfcff35d">
+<img width="887" alt="4" src="https://github.com/user-attachments/assets/689f7763-364d-45e1-a325-ad427891b3a7">
+<img width="910" alt="2" src="https://github.com/user-attachments/assets/38155f8d-21a8-4ff8-a1bd-d759f2965eeb">
+<img width="856" alt="1" src="https://github.com/user-attachments/assets/be6a31e3-8079-4f34-baed-d83777bff936">
+
+
